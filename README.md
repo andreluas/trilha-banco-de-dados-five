@@ -45,10 +45,10 @@ Bom trabalho!
 ---
 
 # Exercícios Realizados
-[x] Exercício 01 <br>
-[x] Exercício 02 - Parte 01 <br>
-[x] Exercício 02 - Parte 02 <br>
-[x] Exercício 02 - Parte 03 <br>
+[ :heavy_check_mark: ] Exercício 01 <br>
+[ :heavy_check_mark: ] Exercício 02 - Parte 01 <br>
+[ :heavy_check_mark: ] Exercício 02 - Parte 02 <br>
+[ :heavy_check_mark: ] Exercício 02 - Parte 03 <br>
 
 <br>
 <br>
