@@ -45,10 +45,10 @@ Bom trabalho!
 ---
 
 # Exercícios Realizados
-[ :heavy_check_mark: ] Exercício 01 <br>
-[ :heavy_check_mark: ] Exercício 02 - Parte 01 <br>
-[ :heavy_check_mark: ] Exercício 02 - Parte 02 <br>
-[ :heavy_check_mark: ] Exercício 02 - Parte 03 <br>
+:heavy_check_mark: [Exercício 01](https://github.com/andreluas/trilha-banco-de-dados-five/tree/master/exercicio_01) <br>
+:heavy_check_mark: Exercício 02 - Parte 01 <br>
+:heavy_check_mark: Exercício 02 - Parte 02 <br>
+:heavy_check_mark: Exercício 02 - Parte 03 <br>
 
 <br>
 <br>
